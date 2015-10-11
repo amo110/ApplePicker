@@ -1,4 +1,5 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: d66319fe1c6da4bab8544e4490a3e887
 timeCreated: 1443071905
 licenseType: Free
@@ -6,3 +7,8 @@ DefaultImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+=======
+guid: 10a3c09dc5f590643ae2cbab8257841d
+DefaultImporter:
+  userData: 
+>>>>>>> ITI415-F15/master
